@@ -257,7 +257,7 @@ export const checkoutContent: CheckoutContent = {
 
   header: {
     topBar: {
-      badge: "Secure Checkout NEW",
+      badge: "Secure Checkout.",
       messages: [
         "All transactions are secure and encrypted",
         "Need Help? 1-800-390-6035",
@@ -266,7 +266,7 @@ export const checkoutContent: CheckoutContent = {
   },
 
   formPanel: {
-    title: "Secure Checkout NEW",
+    title: "Secure Checkout.",
     subtitle: "Complete your details below to place your order.",
   },
 
